@@ -1,28 +1,60 @@
-Hi 👋 My name is Afroditi Kalantzi
-==================================
+# 👋 Hi, I'm Afroditi Kalantzi
 
-Bridging Design and Code through Interactive Systems
-----------------------------------------------------
+### Bridging Design & Code Through Interactive Systems
 
-I’m Afroditi Kalantzi, a creative technologist and final-year design engineering student passionate about blending aesthetics with functionality. I enjoy creating interactive experiences that make technology more intuitive, engaging, and human-centered.
+I’m a **creative technologist** and **final-year design engineering student** passionate about blending aesthetics with functionality. I design and develop interactive systems that make technology more intuitive, engaging, and human-centered.
 
-From dynamic web applications to physical-digital installations, I explore how design and code can come together to tell stories, solve problems, and enhance understanding.
+Whether it’s a dynamic web app or a physical-digital installation, I love transforming abstract ideas into interactive experiences that inform, connect, and inspire.
 
-I work across the entire development process, from early concept to working prototype, and continuously seek out new methods and ideas that can transform simple concepts into impactful real-world solutions.
+I thrive in every stage of development — from concept and prototyping to implementation — and I’m always exploring new methods and tools to bring meaningful solutions to life.
 
-* 🌍  I'm based in **Greece**
-* 🖥️  See my portfolio at [afroditi-kalantzi.netlify.app](https://afroditi-kalantzi.netlify.app)
-* ✉️  You can contact me at [afrodite.kalantzi@gmail.com](mailto:afrodite.kalantzi@gmail.com)
-* 🚀  I'm currently working on [Empneusi.net](https://www.empneusi.net)
-* 🧠  I'm currently learning **Django, Docker, and React**
-* 🤝  I'm open to collaborating on **web apps, interactive systems, or creative coding projects**
+---
+
+### 🔎 About Me
+
+- 🌍 Based in **Greece**
+- 🖥️ Portfolio: [afroditi-kalantzi.netlify.app](https://afroditi-kalantzi.netlify.app)
+- ✉️ Contact: [afrodite.kalantzi@gmail.com](mailto:afrodite.kalantzi@gmail.com)
+- 🚀 Currently working on: [Empneusi.net](https://www.empneusi.net)
+- 🧠 Learning: **Django**, **Docker**, and **React**
+- 🤝 Open to: **Web apps**, **Interactive systems**, **Creative coding** projects  
+- 💼 Open to new opportunities in tech and design — always excited to work on innovative and meaningful projects
 
 
-### Skills
+---
+
+### 🛠️ Tech Stack
+
+#### 👩‍💻 Programming Languages  
+[![Languages](https://skillicons.dev/icons?i=py,cpp,js,html,css,php)](https://skillicons.dev)
+
+#### 🌐 Web Development  
+[![Web Dev](https://skillicons.dev/icons?i=django,flask,react,bootstrap,jquery,wordpress)](https://skillicons.dev)
+
+#### 🗃️ Databases  
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+#### 🧰 Tools & Platforms  
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,anaconda)](https://skillicons.dev)
+
+#### 🧪 Other Technologies  
+[![Other](https://skillicons.dev/icons?i=unity,androidstudio)](https://skillicons.dev)
+
+---
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django"/></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nightdragon2000&show_icons=true&theme=tokyonight&hide_title=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightdragon2000&layout=compact&theme=tokyonight" />
 </p>
 
 
+---
+
+### 📌 Let's Connect!
+
+I'm always excited to meet collaborators, mentors, or teams working on meaningful digital experiences.  
+Feel free to reach out — whether it's for a project, opportunity, or just to connect.
