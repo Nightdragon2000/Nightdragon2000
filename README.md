@@ -2,48 +2,47 @@
 
 ### Bridging Design & Code Through Interactive Systems
 
-I’m a **creative technologist** and **final-year design engineering student** passionate about blending aesthetics with functionality. I design and develop interactive systems that make technology more intuitive, engaging, and human-centered.
+I’m a **creative technologist** and **final-year design engineering student** passionate about blending **aesthetics with functionality**.  
+I design and develop **interactive systems** that make technology more intuitive, engaging, and human-centered.
 
-Whether it’s a dynamic web app or a physical-digital installation, I love transforming abstract ideas into interactive experiences that inform, connect, and inspire.
+Whether it’s a dynamic **web app** or a **physical-digital installation**, I transform abstract ideas into interactive experiences that **inform, connect, and inspire**.
 
-I thrive in every stage of development — from concept and prototyping to implementation — and I’m always exploring new methods and tools to bring meaningful solutions to life.
+I thrive in every stage of development — from **concept and prototyping to implementation** — and I’m always exploring new methods and tools to bring meaningful solutions to life.
 
 ---
 
-### 🔎 About Me
+## 🔎 About Me
 
 - 🌍 Based in **Greece**
 - 🖥️ Portfolio: [afroditi-kalantzi.netlify.app](https://afroditi-kalantzi.netlify.app)
 - ✉️ Contact: [afrodite.kalantzi@gmail.com](mailto:afrodite.kalantzi@gmail.com)
 - 🚀 Currently working on: [Empneusi.net](https://www.empneusi.net)
-- 🧠 Learning: **Django**, **Docker**, and **React**
+- 🧠 Learning: **Django**, **Docker**, **React**
 - 🤝 Open to: **Web apps**, **Interactive systems**, **Creative coding** projects  
-- 💼 Open to new opportunities in tech and design — always excited to work on innovative and meaningful projects
-
+- 💼 Open to opportunities in **tech and design** — always eager to contribute to innovative and human-centered projects
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 👩‍💻 Programming Languages  
+### 👩‍💻 Programming Languages  
 [![Languages](https://skillicons.dev/icons?i=py,cpp,js,html,css,php)](https://skillicons.dev)
 
-#### 🌐 Web Development  
+### 🌐 Web Development  
 [![Web Dev](https://skillicons.dev/icons?i=django,flask,react,bootstrap,jquery,wordpress)](https://skillicons.dev)
 
-#### 🗃️ Databases  
+### 🗃️ Databases  
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
-#### 🧰 Tools & Platforms  
+### 🧰 Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,anaconda)](https://skillicons.dev)
 
-#### 🧪 Other Technologies  
+### 🧪 Other Technologies  
 [![Other](https://skillicons.dev/icons?i=unity,androidstudio)](https://skillicons.dev)
 
 ---
 
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nightdragon2000&show_icons=true&theme=tokyonight&hide_title=true" />
@@ -51,10 +50,9 @@ I thrive in every stage of development — from concept and prototyping to imple
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightdragon2000&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
-### 📌 Let's Connect!
+## 📌 Let's Connect!
 
-I'm always excited to meet collaborators, mentors, or teams working on meaningful digital experiences.  
-Feel free to reach out — whether it's for a project, opportunity, or just to connect.
+I'm always excited to meet **collaborators, mentors, or teams** working on meaningful digital experiences.  
+💌 Feel free to reach out — whether it's for a project, an opportunity, or just to connect!  
