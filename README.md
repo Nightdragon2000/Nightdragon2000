@@ -41,9 +41,9 @@ I enjoy every stage of development, from concept and prototyping to implementati
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightdragon2000&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afroditikalantzi&show_icons=true&theme=tokyonight&hide_title=true" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightdragon2000&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afroditikalantzi&layout=compact&theme=tokyonight" />
 </p>
 
 
